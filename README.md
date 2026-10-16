@@ -1,4 +1,6 @@
 # Programação em Linguagem C na Universidade de Brasilia
+[![C](https://skillicons.dev)](https://skillicons.dev)
+
 
 ## ⭐ Introdução: 
 Esse repositorio é um armazenador de C, onde desenvolvi minhas habilidades em C com base em estudos, atividades, trabalhos.
