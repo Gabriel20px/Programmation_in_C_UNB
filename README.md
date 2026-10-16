@@ -1,10 +1,10 @@
 # Programação em Linguagem C na Universidade de Brasilia
 
-## Introdução:
+## ⭐ Introdução: 
 Esse repositorio é um armazenador de C, onde desenvolvi minhas habilidades em C com base em estudos, atividades, trabalhos.
 Aqui você verá codigos, explicações e os fundamentos da linguagem C.
 
-## O que você vai ver:
+## ⭐ O que você vai ver:
 
 ```
 Fundamentos da Linguagem C:
@@ -17,7 +17,7 @@ Fundamentos da Linguagem C:
 * Funções, Strings, Vetores e Matrizes
 * Modularizção
 ```
-
+❗​
 > ”Programação é a arte de dizer a um computador o que fazer”
 
 
